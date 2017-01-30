@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "Class.hpp"
+#include "BMI.hpp"
 
 using namespace std;
 int main() {
